@@ -1,4 +1,4 @@
-# Titan-Netword-docer-x-5
+# Titan-Network-docer-x-5
 docer x 5
 
 
@@ -6,9 +6,9 @@ docer x 5
 
 login and go to  "https://api-test1.container1.titannet.io/api/v2/generate/code"  get jwt
 
-python3 get_titan_code.py 
+`python3 get_titan_code.py`
   input number
   input  jwt
 
-chmod + x titan.sh 
-  bash titan.sh
+`chmod + x titan.sh` 
+  `bash titan.sh`
